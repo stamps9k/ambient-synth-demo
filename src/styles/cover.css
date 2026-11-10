@@ -4,13 +4,12 @@
 
 /* Extra items unique to this app */
 .vertical-form-range {
-    writing-mode: vertical-lr;
-    direction: rtl;
-    appearance: slider-vertical;
-    width: 16px;
-    vertical-align: bottom;
+  writing-mode: vertical-lr;
+  direction: rtl;
+  appearance: slider-vertical;
+  width: 16px;
+  vertical-align: bottom;
 }
-
 
 /* Extra items extracted from the inline code in the online example */
 @media (min-width: 768px) {
