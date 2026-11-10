@@ -7,5 +7,5 @@
     "noEmit": false,
     "rootDir": "../"
   },
-  "include": ["../server.ts", "../api/*"]
+  "include": ["../server.mts"]
 }
